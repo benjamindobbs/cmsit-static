@@ -11,8 +11,4 @@
     #frame { width: 640px; height: 700px;}
 </style>
 <script>
-
-export default {
-
-};
 </script>
