@@ -7,8 +7,5 @@
       </v-layout>
   </v-container>
 </template>
-<style>
-    #frame { width: 640px; height: 700px;}
-</style>
 <script>
 </script>
